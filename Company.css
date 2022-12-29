@@ -1,0 +1,100 @@
+.container{
+    background-image: linear-gradient(rgb(213, 204, 227), rgb(222, 211, 227));
+}
+.para {
+    background-color: rgb(233, 34, 23);
+    border: 1px solid red;
+    padding: 5px;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+
+
+.one {
+    background-color: aquamarine;
+
+   
+    height: 120px;
+    width: 170px;
+    margin: 10px;
+
+}
+
+.two {
+    background-color: darkkhaki;
+
+  
+    height: 120px;
+    width: 170px;
+    margin: 10px;
+
+}
+
+.three {
+    background-color: bisque;
+
+  
+    height: 120px;
+    width: 170px;
+    margin: 10px;
+
+}
+
+.four {
+    background-color: darksalmon;
+
+    
+    height: 120px;
+    width: 170px;
+    margin: 10px;
+
+}
+.btn{
+    border: 2px solid red;
+    border-radius: 50%;
+    background-color: white;
+   
+
+}
+.arr{
+    margin-left: 70px;
+}
+ .card {
+
+    background-image: linear-gradient(rgb(213, 204, 227), rgb(222, 211, 227));
+
+    width: 500px;
+     text-align: center;
+    padding-top: 15px;
+    color: chocolate;
+    font-family: 'Satisfy', cursive;
+    
+
+} 
+
+.icons{
+    color: rgb(255, 51, 0);
+}
+.icon{
+    color: rgb(12, 5, 48);
+}
+
+.one:hover, .two:hover,.four:hover,.three:hover{
+    background-color: rgb(166, 210, 249);
+    border: 2px solid red;
+    border-radius: 5%;
+
+}
+.start{
+    background-image: linear-gradient(red, rgb(0, 157, 255));
+    color: white;
+  
+}
+.fam{
+    background-color: rgb(223, 230, 249);
+    /* border: 2px solid grey;
+    border-radius: 5% ; */
+}
